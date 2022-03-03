@@ -1,6 +1,6 @@
 # Walmart-Interview-Experience
 
-I'm currently an SWE Intern at Walmart, India! I applied to it via the CODEHERS competition on the D2C platform. 
+I'm currently an SWE Intern at Walmart, India! I applied to it via the CODEHERS competition on the D2C platform in 2021. 
 ## Round-1: 
 It was a MCQ challenge, there were 25 questions to be solved within 30 minutes. Questions were mostly on Computer Science fundamentals covering Operating Systems, Computer Networks, DBMS, and OOPs. 
 
@@ -12,7 +12,7 @@ It was a coding challenge. There were 2 coding questions to be solved within 90 
 
 There were 2 lists generated for shortlisted and waitlisted. As far as I know, only shortlisted ones got the interview opportunity. There wasn't a cut-off; instead, it was based on your score and rank you achieved. So try to score more in both the OA rounds. 
 
-**Interviews were conducted in September for 6 months SWE Internship.**
+**Interviews were conducted in September 2021 for 6 months SWE Internship.**
 
 ## Interview Round-1: 
 It was a technical interview that included questions based on DSA, CS fundamentals, Machine Learning & Azure (as it was mentioned in my resume).
