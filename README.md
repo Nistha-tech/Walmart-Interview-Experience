@@ -7,7 +7,9 @@ It was a MCQ challenge, there were 25 questions to be solved within 30 minutes. 
 ## Round-2:
 It was a coding challenge. There were 2 coding questions to be solved within 90 minutes. They were DSA based questions covering all the topics. There were many sets of questions so difficulty also varies according to sets. I would say it to be of medium-hard level. 
 
+
 **Results were announced!**
+
 There were 2 lists generated for shortlisted and waitlisted. As far as I know, only shortlisted ones got the interview opportunity. There wasn't a cut-off it was based on your score and rank you achieved. So try to score more in both the OA rounds. 
 
 **Interviews were conducted in September for 6 months SWE Internship.**
